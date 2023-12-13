@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF146F0B-75B1-41CE-AFC9-E4DDF545A209"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "370A48CF-D860-4B85-9A0D-76E18453C0E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getMovies(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "370A48CF-D860-4B85-9A0D-76E18453C0E5 - 39f1d5b3cac738e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cinemate.NetworkManager.getMovies(searchText: Swift.String) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "370A48CF-D860-4B85-9A0D-76E18453C0E5 - 39f1d5b3cac738e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cinemate.NetworkManager.getMovies(searchText: Swift.String) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "198D4522-7349-420F-9EB4-1492974BF7CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getMovies(searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE6136DB-40E0-49A0-B72E-1E116A29E812"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/MovieSearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB9A22B0-5B9D-47E5-9B55-0B24DAE686C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/BasicDisplayController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB9A22B0-5B9D-47E5-9B55-0B24DAE686C0 - 758cadc0bb6a426e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinemate.BasicDisplayController.viewDidLoad() -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/BasicDisplayController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "AB9A22B0-5B9D-47E5-9B55-0B24DAE686C0 - 758cadc0bb6a426e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinemate.BasicDisplayController.viewDidLoad() -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/BasicDisplayController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A322C45E-C9B1-4C9D-963B-6188E4ED7668"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/BasicDisplayController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEC43497-56D2-4103-994A-6C0C7DDA8C0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/BasicDisplayController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "422753C4-9008-4997-ADF2-564E4C5B4455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/DetailsDisplayController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F747EBB3-444E-4686-B738-F54667AA9E9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/DetailsDisplayController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "networkingDidFinishWithMovieDetails(movieDetail:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F747EBB3-444E-4686-B738-F54667AA9E9F - 9f641cf58e70482"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinemate.DetailsDisplayController.networkingDidFinishWithMovieDetails(movieDetail: Cinemate.MovieDetail) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/DetailsDisplayController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "F747EBB3-444E-4686-B738-F54667AA9E9F - 4308f318bdab6a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Cinemate.DetailsDisplayController.networkingDidFinishWithMovieDetails(movieDetail: Cinemate.MovieDetail) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/DetailsDisplayController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED383A24-A4B1-451C-AE3A-30FD5A039BBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED383A24-A4B1-451C-AE3A-30FD5A039BBB - 29b045a4cfad7c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinemate.NetworkingManager.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "ED383A24-A4B1-451C-AE3A-30FD5A039BBB - 383bdce31e024f68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cinemate.NetworkingManager.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37EA6340-29D8-481C-900E-14E5D8AD2A07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCD70C20-95A1-4B15-A650-E39F40AC424B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCE5CF1C-4581-46B4-9800-F9A0970E0EFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCE5CF1C-4581-46B4-9800-F9A0970E0EFF - 383bdce31e024ecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cinemate.NetworkingManager.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "DCE5CF1C-4581-46B4-9800-F9A0970E0EFF - 383bdce31e024ecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cinemate.NetworkingManager.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "788EA2BB-805E-48C9-920F-12A7673277A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinemate/MovieSearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getNextPage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "788EA2BB-805E-48C9-920F-12A7673277A0 - 630233084c9aa97a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinemate.MovieSearchController.getNextPage(Any) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/MovieSearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "788EA2BB-805E-48C9-920F-12A7673277A0 - 630233084c9aa97a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinemate.MovieSearchController.getNextPage(Any) -&gt; ()"
+                  moduleName = "Cinemate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user235924/Desktop/ios/Project/Cinemate/Cinemate/MovieSearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
